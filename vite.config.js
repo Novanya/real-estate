@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
-  base: "/real-estate",
+  base: process.env.VITE_BASE_PATH || "/real-estate",
 })
