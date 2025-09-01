@@ -17,9 +17,9 @@ function Header() {
           <Navbar />
         </div>
         <div className=" w-2/12 p-4 m-0 flex relative mt-10">
-          <button className=" flex bg-blue-800 p-2.5 rounded font-bold text-white hover:bg-blue-400 duration-300">
+          <a href="#Contact"><button className=" flex bg-blue-800 p-2.5 rounded font-bold text-white hover:bg-blue-400 duration-300">
             Get Started
-          </button>
+          </button></a>
         </div>
       </div>
       <div className="w-full ">
