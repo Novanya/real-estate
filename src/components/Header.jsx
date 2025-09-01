@@ -32,7 +32,7 @@ function Header() {
           Your Future Begins <br />
           at the Perfect Address
         </h1>
-        <a href="#Services" className=" flex justify-end mr-28">
+        <a href="#Projects" className=" flex justify-end mr-28">
           <button className="rounded bg-transparent border-3 border-black hover:scale-105 p-3 font-bold duration-500 sm:justify-center sm:items-center  md:justify-end">
             Explore More
           </button>
