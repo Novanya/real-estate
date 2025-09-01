@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div className="p-4 absolute top-0 w-full z-10 bg-transparent">
+    <div id="Nav" className="p-4 absolute top-0 w-full z-10 bg-transparent">
       <div className="flex justify-center space-x-8 text-xl font-bold">
         <a
           href="#Nav"
