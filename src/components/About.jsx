@@ -3,7 +3,7 @@ import asset from "../assets/brand.jpeg";
 
 function About() {
   return (
-    <div className="min-h-screen w-auto text-black items-center m-auto">
+    <div id="About" className="min-h-screen w-auto text-black items-center m-auto">
       <div className="w-full text-center sm:mr-0 sm:ml-0 sm:pr-0 sm:pl-0 mt-5 md:p-10 ">
         <h1 className=" text-center font-extrabold text-5xl">About Us</h1>
         <div className="text-center md:m-4 ">
