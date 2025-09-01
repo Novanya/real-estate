@@ -2,8 +2,6 @@
 
 A responsive React website showcasing real estate properties, services, and completed projects.
 
-## Live Demo
-[View Live Site](https://vercel.com/novanyas-projects/real-estate/7zi8QGJEXoZqNJGqsJvR9LWXuxTr)
 
 ## GitHub Repository
 [View Code](https://github.com/Novanya/real-estate)
