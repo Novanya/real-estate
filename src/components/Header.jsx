@@ -5,7 +5,7 @@ function Header() {
     <div
       className="min-h-screen min-w-full"
       style={{
-        backgroundImage:"url('/real-estate/background.jpg')",
+        backgroundImage:"url('background.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
