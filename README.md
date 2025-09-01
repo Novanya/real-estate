@@ -1,3 +1,56 @@
+# Real Estate Selling Website
+
+A responsive React website showcasing real estate properties, services, and completed projects.
+
+## Live Demo
+[View Live Site](https://vercel.com/novanyas-projects/real-estate/7zi8QGJEXoZqNJGqsJvR9LWXuxTr)
+
+## GitHub Repository
+[View Code](https://github.com/Novanya/real-estate)
+
+---
+
+## Setup
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Novanya/real-estate.git
+Install dependencies:
+
+npm install
+
+
+Run development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+
+
+Structure
+real-estate/
+├─ public/           
+├─ src/
+│  ├─ assets/         
+│  ├─ components/   
+│  ├─ App.jsx         
+│  └─ main.jsx        
+├─ package.json
+├─ tailwind.config.js
+└─ vite.config.js
+
+Decisions
+
+React + Vite: Fast development and lightweight.
+Tailwind CSS: Responsive, easy to handle and fast layout adjustments.
+Responsive Design: Mobile-first approach with breakpoints for devices.
+Deployment Options: Available of Vercel.
+Web3Forms: Handles contact form submissions without backend setup.
+Entern file data for Services & Projects: Makes it easy to scale and manage content.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
