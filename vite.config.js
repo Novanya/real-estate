@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
-  base: "/real-estate",
+  base: "/real-estate/",
 })
