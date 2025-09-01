@@ -2,13 +2,6 @@ import React from "react";
 import Navbar from "./Navbar";
 import wallpaper from "../assets/wallpaper.jpg";
 
-<div
-  style={{
-    backgroundImage: `url(${wallpaper})`,
-  }}
->
-
-
 function Header() {
   return (
     <div
