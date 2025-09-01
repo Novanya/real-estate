@@ -4,12 +4,12 @@ function Header() {
   return (
     <div
       className="min-h-screen min-w-full"
-      style={{
+{/*       style={{
         backgroundImage:"url('/background.jpg'),
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-      }}
+      }} */}
     >
      
       <div className="w-full h-auto flex justify-between">
