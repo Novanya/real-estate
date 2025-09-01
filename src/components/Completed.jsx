@@ -3,7 +3,7 @@ import { projectsData } from "../assets/assets.js";
 
 function Completed() {
   return (
-    <div className="w-full min-h-screen text-black text-center p-5 ">
+    <div id="Projects" className="w-full min-h-screen text-black text-center p-5 ">
       <div>
         <h1 className="text-5xl font-extrabold">Completed Projects</h1>
         <p className="flex flex-wrap justify-center mt-5 text-black">
