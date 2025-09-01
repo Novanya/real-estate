@@ -13,7 +13,7 @@ function Header() {
         backgroundRepeat: "no-repeat",
       }}
     >
-      {" "}
+     
       <div className="w-full h-auto flex justify-between">
         <div className="w-8/12 flex justify-between ">
           <Navbar />
