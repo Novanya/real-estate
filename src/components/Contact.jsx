@@ -30,7 +30,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100 p-3 text-black">
+    <div id="Contact" className="min-h-screen flex flex-col justify-center items-center bg-gray-100 p-3 text-black">
       <h1 className="text-3xl font-bold mb-6">Contact Us</h1>
 
       <form
