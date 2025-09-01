@@ -1,12 +1,11 @@
 import React from "react";
 import Navbar from "./Navbar";
-import background from "../assets/background.jpg"; 
 function Header() {
   return (
     <div
       className="min-h-screen min-w-full"
       style={{
-        backgroundImage: `url(${background})`,
+        backgroundImage: "url('/background.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
